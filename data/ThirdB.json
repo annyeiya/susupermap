@@ -1,5 +1,15 @@
 {
   "-1": {
+    "1": [
+      {
+        "name": "3а",
+        "floor": "1",
+        "left": 0.15,
+        "top": 0.085,
+        "width": 0.08,
+        "height": 0.03
+      }
+    ],
     "2": [
       {
         "name": "3а",
@@ -19,9 +29,221 @@
         "width": 0.08,
         "height": 0.03
       }
+    ],
+    "4": [
+      {
+        "name": "3а",
+        "floor": "4",
+        "left": 0.1,
+        "top": 0.22,
+        "width": 0.08,
+        "height": 0.03
+      }
+    ],
+    "5": [
+      {
+        "name": "3а",
+        "floor": "5",
+        "left": 0.1,
+        "top": 0.22,
+        "width": 0.08,
+        "height": 0.03
+      }
+    ],
+    "6": [
+      {
+        "name": "3а",
+        "floor": "6",
+        "left": 0.1,
+        "top": 0.22,
+        "width": 0.08,
+        "height": 0.03
+      }
     ]
   },
-  "1": [],
+  "1": [
+    {
+      "number": "111",
+      "left": 0.358,
+      "top": 0.22,
+      "width": 0.035,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "113",
+      "left": 0.39,
+      "top": 0.22,
+      "width": 0.08,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "115",
+      "left": 0.47,
+      "top": 0.22,
+      "width": 0.11,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "",
+      "left": 0.576,
+      "top": 0.22,
+      "width": 0.035,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "117",
+      "left": 0.606,
+      "top": 0.22,
+      "width": 0.04,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "119",
+      "left": 0.643,
+      "top": 0.22,
+      "width": 0.035,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "121",
+      "left": 0.676,
+      "top": 0.22,
+      "width": 0.04,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "123",
+      "left": 0.716,
+      "top": 0.22,
+      "width": 0.04,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "125",
+      "left": 0.805,
+      "top": 0.22,
+      "width": 0.035,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "127",
+      "left": 0.835,
+      "top": 0.22,
+      "width": 0.08,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "133",
+      "left": 0.915,
+      "top": 0.22,
+      "width": 0.06,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "118",
+      "left": 0.255,
+      "top": 0.32,
+      "width": 0.11,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "120",
+      "left": 0.365,
+      "top": 0.32,
+      "width": 0.05,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "",
+      "left": 0.415,
+      "top": 0.32,
+      "width": 0.055,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "122",
+      "left": 0.47,
+      "top": 0.32,
+      "width": 0.11,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "124",
+      "left": 0.58,
+      "top": 0.32,
+      "width": 0.065,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "126",
+      "left": 0.645,
+      "top": 0.32,
+      "width": 0.11,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "128",
+      "left": 0.77,
+      "top": 0.32,
+      "width": 0.04,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "130",
+      "left": 0.81,
+      "top": 0.32,
+      "width": 0.105,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "132",
+      "left": 0.915,
+      "top": 0.32,
+      "width": 0.06,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    }
+  ],
+
   "2": [
     {
       "number": "219",
@@ -69,6 +291,15 @@
       "describe": "describe from 227"
     },
     {
+      "number": "",
+      "left": 0.805,
+      "top": 0.22,
+      "width": 0.035,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
       "number": "229",
       "left": 0.84,
       "top": 0.22,
@@ -76,6 +307,24 @@
       "height": 0.07,
       "icon" : null,
       "describe": "describe from 229"
+    },
+    {
+      "number": "",
+      "left": 0.895,
+      "top": 0.22,
+      "width": 0.08,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "",
+      "left": 0.08,
+      "top": 0.32,
+      "width": 0.035,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
     },
     {
       "number": "240",
@@ -99,7 +348,7 @@
       "number": "246",
       "left": 0.363,
       "top": 0.32,
-      "width": 0.033,
+      "width": 0.035,
       "height": 0.07,
       "icon" : "laptop",
       "describe": "describe from 246"
@@ -159,6 +408,7 @@
       "describe": "describe from 258"
     }
   ],
+
   "3": [
     {
       "number": "300",
@@ -198,9 +448,9 @@
     },
     {
       "number": "329",
-      "left": 0.58,
+      "left": 0.578,
       "top": 0.22,
-      "width": 0.03,
+      "width": 0.035,
       "height": 0.07,
       "icon" : null,
       "describe": "describe from 329"
@@ -249,6 +499,15 @@
       "height": 0.07,
       "icon" : null,
       "describe": "describe from 339"
+    },
+    {
+      "number": "",
+      "left": 0.08,
+      "top": 0.32,
+      "width": 0.035,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
     },
     {
       "number": "240",
@@ -341,11 +600,1257 @@
       "describe": "describe from 346"
     }
   ],
-  "4": [],
-  "5": [],
-  "6": [],
-  "7": [],
-  "8": [],
-  "9": [],
-  "10": []
+
+  "4": [
+    {
+      "number": "",
+      "left": 0.015,
+      "top": 0.22,
+      "width": 0.06,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "423",
+      "left": 0.36,
+      "top": 0.22,
+      "width": 0.035,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "425",
+      "left": 0.393,
+      "top": 0.22,
+      "width": 0.053,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "427",
+      "left": 0.441,
+      "top": 0.22,
+      "width": 0.035,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "429",
+      "left": 0.474,
+      "top": 0.22,
+      "width": 0.108,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "",
+      "left": 0.58,
+      "top": 0.22,
+      "width": 0.035,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "431",
+      "left": 0.612,
+      "top": 0.22,
+      "width": 0.038,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "433",
+      "left": 0.65,
+      "top": 0.22,
+      "width": 0.11,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "",
+      "left": 0.808,
+      "top": 0.22,
+      "width": 0.035,
+      "height": 0.05,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "435",
+      "left": 0.836,
+      "top": 0.22,
+      "width": 0.035,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "437",
+      "left": 0.87,
+      "top": 0.22,
+      "width": 0.11,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "432",
+      "left": 0.077,
+      "top": 0.32,
+      "width": 0.035,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "",
+      "left": 0.107,
+      "top": 0.32,
+      "width": 0.12,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "436",
+      "left": 0.222,
+      "top": 0.32,
+      "width": 0.035,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "438",
+      "left": 0.255,
+      "top": 0.32,
+      "width": 0.108,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "440",
+      "left": 0.363,
+      "top": 0.32,
+      "width": 0.055,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "442",
+      "left": 0.418,
+      "top": 0.32,
+      "width": 0.055,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "444",
+      "left": 0.473,
+      "top": 0.32,
+      "width": 0.11,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "446",
+      "left": 0.583,
+      "top": 0.32,
+      "width": 0.065,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "448",
+      "left": 0.648,
+      "top": 0.32,
+      "width": 0.11,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "450",
+      "left": 0.81,
+      "top": 0.32,
+      "width": 0.085,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "452",
+      "left": 0.895,
+      "top": 0.32,
+      "width": 0.085,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    }
+  ],
+  "5": [
+    {
+      "number": "",
+      "left": 0.015,
+      "top": 0.22,
+      "width": 0.06,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "525",
+      "left": 0.363,
+      "top": 0.22,
+      "width": 0.055,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "527",
+      "left": 0.418,
+      "top": 0.22,
+      "width": 0.055,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "529",
+      "left": 0.473,
+      "top": 0.22,
+      "width": 0.11,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "531",
+      "left": 0.578,
+      "top": 0.22,
+      "width": 0.035,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "533",
+      "left": 0.608,
+      "top": 0.22,
+      "width": 0.04,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "535",
+      "left": 0.648,
+      "top": 0.22,
+      "width": 0.11,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "",
+      "left": 0.808,
+      "top": 0.22,
+      "width": 0.035,
+      "height": 0.05,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "537",
+      "left": 0.838,
+      "top": 0.22,
+      "width": 0.058,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "",
+      "left": 0.895,
+      "top": 0.22,
+      "width": 0.08,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "530",
+      "left": 0.078,
+      "top": 0.32,
+      "width": 0.035,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "532",
+      "left": 0.107,
+      "top": 0.32,
+      "width": 0.145,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "534",
+      "left": 0.255,
+      "top": 0.32,
+      "width": 0.11,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "536",
+      "left": 0.365,
+      "top": 0.32,
+      "width": 0.055,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "538",
+      "left": 0.42,
+      "top": 0.32,
+      "width": 0.055,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "540",
+      "left": 0.475,
+      "top": 0.32,
+      "width": 0.108,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "542",
+      "left": 0.583,
+      "top": 0.32,
+      "width": 0.065,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "544",
+      "left": 0.648,
+      "top": 0.32,
+      "width": 0.11,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "546",
+      "left": 0.81,
+      "top": 0.32,
+      "width": 0.055,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "548",
+      "left": 0.865,
+      "top": 0.32,
+      "width": 0.11,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    }
+  ],
+
+  "6": [
+    {
+      "number": "",
+      "left": 0.015,
+      "top": 0.22,
+      "width": 0.06,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "",
+      "left": 0.365,
+      "top": 0.22,
+      "width": 0.08,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "619",
+      "left": 0.441,
+      "top": 0.22,
+      "width": 0.035,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "621",
+      "left": 0.475,
+      "top": 0.22,
+      "width": 0.11,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "623",
+      "left": 0.585,
+      "top": 0.22,
+      "width": 0.065,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "625",
+      "left": 0.65,
+      "top": 0.22,
+      "width": 0.11,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "",
+      "left": 0.808,
+      "top": 0.22,
+      "width": 0.035,
+      "height": 0.05,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "",
+      "left": 0.838,
+      "top": 0.22,
+      "width": 0.058,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "629",
+      "left": 0.895,
+      "top": 0.22,
+      "width": 0.085,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "630",
+      "left": 0.078,
+      "top": 0.32,
+      "width": 0.035,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "632",
+      "left": 0.107,
+      "top": 0.32,
+      "width": 0.145,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "636",
+      "left": 0.255,
+      "top": 0.32,
+      "width": 0.11,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "638",
+      "left": 0.365,
+      "top": 0.32,
+      "width": 0.055,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "640",
+      "left": 0.42,
+      "top": 0.32,
+      "width": 0.055,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "642",
+      "left": 0.475,
+      "top": 0.32,
+      "width": 0.11,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "644",
+      "left": 0.585,
+      "top": 0.32,
+      "width": 0.065,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "646",
+      "left": 0.65,
+      "top": 0.32,
+      "width": 0.11,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "648",
+      "left": 0.81,
+      "top": 0.32,
+      "width": 0.055,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "650",
+      "left": 0.865,
+      "top": 0.32,
+      "width": 0.115,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    }
+  ],
+
+  "7": [
+    {
+      "number": "",
+      "left": 0.015,
+      "top": 0.22,
+      "width": 0.06,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "701",
+      "left": 0.36,
+      "top": 0.22,
+      "width": 0.06,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "703",
+      "left": 0.42,
+      "top": 0.22,
+      "width": 0.05,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "705",
+      "left": 0.47,
+      "top": 0.22,
+      "width": 0.11,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "707",
+      "left": 0.58,
+      "top": 0.22,
+      "width": 0.07,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "709",
+      "left": 0.65,
+      "top": 0.22,
+      "width": 0.11,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "",
+      "left": 0.808,
+      "top": 0.22,
+      "width": 0.035,
+      "height": 0.05,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "",
+      "left": 0.838,
+      "top": 0.22,
+      "width": 0.058,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "713",
+      "left": 0.895,
+      "top": 0.22,
+      "width": 0.085,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "",
+      "left": 0.078,
+      "top": 0.32,
+      "width": 0.035,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "704",
+      "left": 0.107,
+      "top": 0.32,
+      "width": 0.145,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "706",
+      "left": 0.255,
+      "top": 0.32,
+      "width": 0.11,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "708",
+      "left": 0.365,
+      "top": 0.32,
+      "width": 0.055,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "710",
+      "left": 0.42,
+      "top": 0.32,
+      "width": 0.055,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "712",
+      "left": 0.475,
+      "top": 0.32,
+      "width": 0.11,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "714",
+      "left": 0.585,
+      "top": 0.32,
+      "width": 0.065,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "716",
+      "left": 0.65,
+      "top": 0.32,
+      "width": 0.11,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "718",
+      "left": 0.808,
+      "top": 0.32,
+      "width": 0.06,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "720",
+      "left": 0.868,
+      "top": 0.32,
+      "width": 0.11,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    }
+  ],
+
+  "8": [
+    {
+      "number": "801",
+      "left": 0.015,
+      "top": 0.22,
+      "width": 0.12,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "803",
+      "left": 0.135,
+      "top": 0.22,
+      "width": 0.06,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "805",
+      "left": 0.365,
+      "top": 0.22,
+      "width": 0.08,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "807",
+      "left": 0.441,
+      "top": 0.22,
+      "width": 0.035,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "807",
+      "left": 0.468,
+      "top": 0.22,
+      "width": 0.035,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "809",
+      "left": 0.5,
+      "top": 0.22,
+      "width": 0.08,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "811",
+      "left": 0.578,
+      "top": 0.22,
+      "width": 0.035,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "813",
+      "left": 0.61,
+      "top": 0.22,
+      "width": 0.04,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "815",
+      "left": 0.65,
+      "top": 0.22,
+      "width": 0.08,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "817",
+      "left": 0.726,
+      "top": 0.22,
+      "width": 0.035,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "",
+      "left": 0.808,
+      "top": 0.22,
+      "width": 0.035,
+      "height": 0.05,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "819",
+      "left": 0.838,
+      "top": 0.22,
+      "width": 0.058,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "821",
+      "left": 0.895,
+      "top": 0.22,
+      "width": 0.055,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "",
+      "left": 0.945,
+      "top": 0.22,
+      "width": 0.035,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "802",
+      "left": 0.255,
+      "top": 0.32,
+      "width": 0.11,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "804",
+      "left": 0.365,
+      "top": 0.32,
+      "width": 0.11,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "806",
+      "left": 0.475,
+      "top": 0.32,
+      "width": 0.105,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "808",
+      "left": 0.58,
+      "top": 0.32,
+      "width": 0.07,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "810",
+      "left": 0.65,
+      "top": 0.32,
+      "width": 0.11,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "812",
+      "left": 0.81,
+      "top": 0.32,
+      "width": 0.11,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "814",
+      "left": 0.92,
+      "top": 0.32,
+      "width": 0.055,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    }
+  ],
+
+  "9": [
+    {
+      "number": "901",
+      "left": 0.015,
+      "top": 0.22,
+      "width": 0.12,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "903",
+      "left": 0.135,
+      "top": 0.22,
+      "width": 0.06,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "905",
+      "left": 0.36,
+      "top": 0.22,
+      "width": 0.085,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "907",
+      "left": 0.44,
+      "top": 0.22,
+      "width": 0.035,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "909",
+      "left": 0.47,
+      "top": 0.22,
+      "width": 0.11,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "911",
+      "left": 0.58,
+      "top": 0.22,
+      "width": 0.07,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "913",
+      "left": 0.65,
+      "top": 0.22,
+      "width": 0.08,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "915",
+      "left": 0.726,
+      "top": 0.22,
+      "width": 0.035,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "",
+      "left": 0.808,
+      "top": 0.22,
+      "width": 0.035,
+      "height": 0.05,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "917",
+      "left": 0.838,
+      "top": 0.22,
+      "width": 0.058,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "919",
+      "left": 0.895,
+      "top": 0.22,
+      "width": 0.08,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "902",
+      "left": 0.255,
+      "top": 0.32,
+      "width": 0.11,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "904  906",
+      "left": 0.365,
+      "top": 0.32,
+      "width": 0.11,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "908",
+      "left": 0.475,
+      "top": 0.32,
+      "width": 0.11,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "910",
+      "left": 0.585,
+      "top": 0.32,
+      "width": 0.065,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "912",
+      "left": 0.65,
+      "top": 0.32,
+      "width": 0.11,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "914",
+      "left": 0.81,
+      "top": 0.32,
+      "width": 0.11,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "916",
+      "left": 0.92,
+      "top": 0.32,
+      "width": 0.055,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    }
+  ],
+
+  "10": [
+    {
+      "number": "1001",
+      "left": 0.015,
+      "top": 0.22,
+      "width": 0.18,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "1003",
+      "left": 0.36,
+      "top": 0.22,
+      "width": 0.08,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "1005",
+      "left": 0.433,
+      "top": 0.22,
+      "width": 0.045,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "1007",
+      "left": 0.472,
+      "top": 0.22,
+      "width": 0.045,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "1009",
+      "left": 0.51,
+      "top": 0.22,
+      "width": 0.075,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "1011",
+      "left": 0.585,
+      "top": 0.22,
+      "width": 0.065,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "1013",
+      "left": 0.65,
+      "top": 0.22,
+      "width": 0.11,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "",
+      "left": 0.808,
+      "top": 0.22,
+      "width": 0.035,
+      "height": 0.05,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "1015",
+      "left": 0.838,
+      "top": 0.22,
+      "width": 0.058,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "1017",
+      "left": 0.895,
+      "top": 0.22,
+      "width": 0.08,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "1002",
+      "left": 0.255,
+      "top": 0.32,
+      "width": 0.11,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "1004",
+      "left": 0.365,
+      "top": 0.32,
+      "width": 0.055,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "1006",
+      "left": 0.42,
+      "top": 0.32,
+      "width": 0.055,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "1008",
+      "left": 0.475,
+      "top": 0.32,
+      "width": 0.11,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "1010",
+      "left": 0.585,
+      "top": 0.32,
+      "width": 0.06,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "1012",
+      "left": 0.645,
+      "top": 0.32,
+      "width": 0.11,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "1014",
+      "left": 0.81,
+      "top": 0.32,
+      "width": 0.11,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    },
+    {
+      "number": "1016",
+      "left": 0.92,
+      "top": 0.32,
+      "width": 0.055,
+      "height": 0.07,
+      "icon" : null,
+      "describe": ""
+    }
+  ]
 }

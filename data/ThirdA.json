@@ -143,18 +143,18 @@
     },
     {
       "number": "278",
-      "left": 0.325,
+      "left": 0.323,
       "top": 0.285,
-      "width": 0.03,
+      "width": 0.035,
       "height": 0.06,
       "icon" : null,
       "describe": "describe from 278"
     },
     {
       "number": "280",
-      "left": 0.353,
+      "left": 0.348,
       "top": 0.285,
-      "width": 0.025,
+      "width": 0.035,
       "height": 0.06,
       "icon" : null,
       "describe": "describe from 280"
@@ -170,27 +170,27 @@
     },
     {
       "number": "284",
-      "left": 0.445,
+      "left": 0.44,
       "top": 0.285,
-      "width": 0.025,
+      "width": 0.035,
       "height": 0.06,
       "icon" : null,
       "describe": "describe from 284"
     },
     {
       "number": "286",
-      "left": 0.47,
+      "left": 0.466,
       "top": 0.285,
-      "width": 0.025,
+      "width": 0.035,
       "height": 0.06,
       "icon" : null,
       "describe": "describe from 286"
     },
     {
       "number": "288",
-      "left": 0.495,
+      "left": 0.489,
       "top": 0.285,
-      "width": 0.025,
+      "width": 0.035,
       "height": 0.06,
       "icon" : null,
       "describe": "describe from 288"
@@ -224,9 +224,9 @@
     },
     {
       "number": "292",
-      "left": 0.691,
+      "left": 0.687,
       "top": 0.285,
-      "width": 0.025,
+      "width": 0.035,
       "height": 0.06,
       "icon" : null,
       "describe": "describe from 292"
@@ -389,12 +389,12 @@
     },
     {
       "number": "346",
-      "left": 0.406,
+      "left": 0.402,
       "top": 0.32,
-      "width": 0.025,
+      "width": 0.035,
       "height": 0.06,
       "icon" : null,
-      "describe": "describe from 346"
+      "describe": ""
     },
     {
       "number": "348",
@@ -425,9 +425,9 @@
     },
     {
       "number": "352",
-      "left": 0.704,
+      "left": 0.7,
       "top": 0.32,
-      "width": 0.025,
+      "width": 0.035,
       "height": 0.06,
       "icon" : null,
       "describe": "describe from 352"
