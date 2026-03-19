@@ -94,8 +94,8 @@ class _CorpusPage extends State<CorpusPage> {
                     return const SizedBox.shrink();
                   }
                 },
-              )
-            ]
+              ),
+            ],
           ),
         ),
       ),
